@@ -17,6 +17,9 @@ LiquidLayer represents the next generation of Proof-of-Work (PoW) blockchains. I
 
 ### Getting Started with LiquidLayer Mainnet
 
+#### Disclaimer
+Before engaging with the LiquidLayer ecosystem, please read and acknowledge the following disclaimer: [Legal Disclaimer](https://www.liquidlayer.network/legal).
+
 #### Network Details:
 - **Network Name:** LiquidLayer
 - **Network URL:** [https://mainnet.liquidlayer.network](https://mainnet.liquidlayer.network)
